@@ -1,0 +1,36 @@
+.card-tools {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+table.dataTable td {
+    padding: 0.3rem 0.75rem !important;
+    vertical-align: middle !important;
+}
+
+.dropdown {
+    position: relative !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+
+.dropdown-divider {
+    margin: 0rem 0 !important;
+}
+
+.dropdown-footer, .dropdown-header {
+    text-transform: capitalize !important;
+    padding: .5rem 0.75rem !important;
+    text-align: left !important;
+}
+
+
+.select2-container--default .select2-selection--single {
+    padding: 0.56875rem 0 !important;
+
+}
+
+#invoice-items {
+    border-bottom: 2px solid #dee2e6;
+}
